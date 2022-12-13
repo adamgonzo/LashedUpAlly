@@ -54,6 +54,7 @@
     display: inline-block;
     font: 18px/36px 'opensans-light', sans-serif;
     padding-right: 3%;
+    color: white;
 }
 #contact .head-col {
     padding-top: 6px;
@@ -67,4 +68,7 @@ div.row.details {
 .fas {
     font-size:35px;
     color: white;
+}
+.fa-calendar-alt {
+    font-size: 25px;
 }

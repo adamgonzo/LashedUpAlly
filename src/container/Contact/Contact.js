@@ -18,7 +18,10 @@ export default class ContactUs extends Component {
                 <aside className="eigth columns footer-widgets">
                     <div className="widget">
                         <h4><i class='fas fa-sms'></i> : <a href="sms:415-960-5050">{Data.phoneNumber}</a></h4>
+                        <br></br>
                         <h4 className="email-link"> <i class="fa fa-envelope" aria-hidden="true"></i> : <a href="mailto:allyglashes@gmail.com? subject=lashes" >{Data.email}</a></h4>
+                        <br></br>
+                        <h4><i class="fas fa-calendar-alt"></i> : <a href="http://Lashedupally.as.me">Book Now</a> </h4>
                     </div>
                 </aside>
             </div>
