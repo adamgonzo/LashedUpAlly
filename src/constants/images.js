@@ -8,7 +8,7 @@ import lashes6 from "../assets/lashes6.png"
 import lashes7 from "../assets/lashes7.png"
 import lashes8 from "../assets/lashes8.png"
 
-export default {
+const images = {
     lasheslogo,
     lashes1,
     lashes2,
@@ -19,3 +19,5 @@ export default {
     lashes7,
     lashes8,
 };
+
+export default images;
